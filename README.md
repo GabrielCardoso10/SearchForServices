@@ -1,0 +1,1 @@
+código feito para disciplina de algoritmos e programação, nele tem diversas funções de cliente e prestador de serviço, você pode agendar serviços, cadastrar empresas e outras funções, essa é uma versão simplificada que haverá atualizações no futuro.
